@@ -10,8 +10,6 @@ There are several features provided by this package:
 
 # Usage
 
-[![Demonstration video](docs/video-demo-thumb.png)](https://talon-ui-helper.s3.ap-southeast-2.amazonaws.com/talon-ui-helper-demo.webm)
-
 1. The GUI: Say "command wizard show". The button text in the menu is also mapped as a voice command (e.g. "choose 1").
 2. Select a menu option, select the region.
 3. Confirm by pressing enter key, a command is added to your clipboard, paste directly in to a .talon file. After that you only need to choose the actual voice command you want to use to trigger it.
